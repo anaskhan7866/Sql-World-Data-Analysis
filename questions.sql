@@ -1,0 +1,20 @@
+-- Q1: List all countries in Asia.
+-- Q2: Find the top 10 countries by population in 2022.
+-- Q3: Show the capital of Algeria.
+-- Q4: List all countries with area > 1,000,000 km², ordered by area.
+-- Q5: Show the population of India in 2000.
+-- Q6: Find the total world population in 2022.
+-- Q7: Count how many countries are in each continent.
+-- Q8: Find the average density of European countries.
+-- Q9: Find the country with the highest growth rate.
+-- Q10: Find the total population of Africa in 2022.
+-- Q11: List all countries with growth rate > 1.02.
+-- Q12: List countries with population density < 50.
+-- Q13: List countries with population between 1M and 5M in 2022.
+-- Q14: Find the top 5 most densely populated countries.
+-- Q15: List all countries where the capital starts with 'A'.
+-- Q16: Find the country with the highest population growth (2000–2022).
+-- Q17: Show countries where the 2022 population is less than 2000.
+-- Q18: Rank all countries by their share of world population.
+-- Q19: Find the continent with the largest total population (2022).
+-- Q20: Find the smallest country by area with population > 10M.
